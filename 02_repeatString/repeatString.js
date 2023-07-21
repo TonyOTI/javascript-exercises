@@ -6,5 +6,7 @@ const repeatString = function(string, int) {
     return arr.join("");
 };
 
+console.log(repeatString("hey", 5));
+
 // Do not edit below this line
 module.exports = repeatString;

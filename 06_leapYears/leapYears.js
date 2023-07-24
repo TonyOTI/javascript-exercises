@@ -17,6 +17,7 @@ const leapYears = function(year) {
     }
 };
 
+
 console.log(leapYears(1992));
 
 // Do not edit below this line
